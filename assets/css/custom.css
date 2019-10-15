@@ -1,0 +1,43 @@
+/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+.tm-page .tm-block:first-child {
+padding-top: 20px;
+}
+.tm-block {
+padding-bottom: 20px;
+}
+.tm-headerbar {
+padding: 10px 0;
+}
+div.transbox {
+    width: 250px;
+    height: 230px;
+    margin: 20px 240px 20px;
+  margin-bottom: -10px;
+
+
+    background-color: rgba(255, 255, 255, 0.7);
+  -webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+    /*border: 1px solid black;
+    /*opacity: 0.6;
+    /*filter: alpha(opacity=60); /* For IE8 and earlier */
+  
+}
+.tm-teaser {
+margin-top: -100px;
+}
+
+.tm-bottom {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
+
+.mejs-container .mejs-controls {  
+  display: none !important;  
+}
+
+
+/* ========================================================================
+   Use this file to add custom CSS easily
+ ========================================================================== */
